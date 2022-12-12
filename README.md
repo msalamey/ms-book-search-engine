@@ -15,13 +15,14 @@ To create a fully functioning Google Books API search engine built with a RESTfu
 * Utilized authentication middleware so that it works in the context of a GraphQL API. 
 * Utilized Heroku to deploy the live website. 
   
-
 ## Screen Shot
 
+![image](https://user-images.githubusercontent.com/107436206/206962907-81ef7ffb-6805-4515-bf05-b653fd34388f.png)
 
  
 ## Links
 * Github Link: https://github.com/msalamey/ms-book-search-engine/tree/main/client
+
     Previous Repo history can be viewed here for reference: https://github.com/msalamey/Mo-Salamey-BSE-Repo-history
     
 * Live URL: 
