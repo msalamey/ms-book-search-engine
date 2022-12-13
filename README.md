@@ -25,4 +25,7 @@ To create a fully functioning Google Books API search engine built with a RESTfu
 
     Previous Repo history can be viewed here for reference: https://github.com/msalamey/Mo-Salamey-BSE-Repo-history
     
-* Live URL: 
+* Live URL: https://ms-book-search.herokuapp.com/
+  
+    Was able to upload via heroku, but was not able to get heroku to launch successfully. Please run through local host to view functional website. BCS support could not figure out the heroku issue after 2 hours of zoom and messaging support. 
+
